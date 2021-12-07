@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RegistroMusica/static/css/main.5f67080e.chunk.css",
+    "main.js": "/RegistroMusica/static/js/main.813ecac2.chunk.js",
+    "main.js.map": "/RegistroMusica/static/js/main.813ecac2.chunk.js.map",
+    "runtime-main.js": "/RegistroMusica/static/js/runtime-main.ccb80e59.js",
+    "runtime-main.js.map": "/RegistroMusica/static/js/runtime-main.ccb80e59.js.map",
+    "static/js/2.a29c1c52.chunk.js": "/RegistroMusica/static/js/2.a29c1c52.chunk.js",
+    "static/js/2.a29c1c52.chunk.js.map": "/RegistroMusica/static/js/2.a29c1c52.chunk.js.map",
+    "index.html": "/RegistroMusica/index.html",
+    "static/css/main.5f67080e.chunk.css.map": "/RegistroMusica/static/css/main.5f67080e.chunk.css.map",
+    "static/js/2.a29c1c52.chunk.js.LICENSE.txt": "/RegistroMusica/static/js/2.a29c1c52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccb80e59.js",
+    "static/js/2.a29c1c52.chunk.js",
+    "static/css/main.5f67080e.chunk.css",
+    "static/js/main.813ecac2.chunk.js"
+  ]
+}
